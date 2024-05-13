@@ -9,3 +9,4 @@ int main ()
         cout << i << '\n';
     }
 }
+//g++ If else numeros.cpp-0 primp
