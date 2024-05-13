@@ -22,3 +22,4 @@ int main ()
         }
     return 0;
 }
+//g++ If else numeros.cpp-0 primp
